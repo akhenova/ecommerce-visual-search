@@ -407,7 +407,7 @@ def main():
                 # Load database if needed
                 if not search_engine.load_database():
                     st.error("Database loading failed!")
-                return
+                    return
 
                 # Find similar images
                 with st.spinner("Searching..."):

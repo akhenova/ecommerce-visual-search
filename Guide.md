@@ -5,9 +5,8 @@
 1. Clone repo and navigate to directory
 2. Create virtual environment: `python3 -m venv .venv`
 3. Activate: `.venv\Scripts\activate` (Windows)
-4. Install: `pip install -r requirements.txt`
-5. Copy `.keras` folder to `C:\Users\[YourUsername]\`
-6. Place JPG images in `db/` directory
+4. Copy `.keras` folder to `C:\Users\[YourUsername]\`
+5. Place JPG images in `db/` directory
 
 ## Run
 
